@@ -1,0 +1,31 @@
+{
+  "name": "@bernskioldmedia/block-library-resources",
+  "version": "0.1.0",
+  "description": "A collection of useful components and functions for WP block library development.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernskioldmedia/block-library-resources.git"
+  },
+  "keywords": [
+    "gutenberg",
+    "wordpress",
+    "block",
+    "library"
+  ],
+  "author": "Bernskiold Media <info@bernskioldmedia.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bernskioldmedia/block-library-resources/issues"
+  },
+  "homepage": "https://github.com/bernskioldmedia/block-library-resources#readme",
+  "dependencies": {
+    "@wordpress/api-fetch": "^3.15",
+    "classnames": "^2.2",
+    "lodash": "^4.17",
+    "react-select": "^3.1"
+  }
+}
